@@ -2,11 +2,11 @@
 
 ## 👋 Introduction
 
-I am a (Data|Platform|Solution) Architect by specialization, software engineer by profession and an engineer at heart.
+I am a (Data|Platform|Solution) Architect by specialization, a software engineer by profession, and an engineer at heart.
 
-Based in Paris and working internationally with [Boston Consulting Group - Gamma](https://www.bcg.com/beyond-consulting/bcg-gamma/default), developing, for and with our clients, advanced analytics solution at scale.
+Based in Paris and working internationally with [Boston Consulting Group - X]([https://www.bcg.com/beyond-consulting/bcg-gamma/default](https://www.bcg.com/x)), developing, for and with our clients, advanced analytics solutions at scale.
 
-## 📫 Contact me on social media
+## 📫 Contact me
 
 * [Linkedin](https://www.linkedin.com/in/nielsfreier/)
-* [Instagram](https://www.instagram.com/stumpyfr)
+
