@@ -4,7 +4,9 @@
 
 I am a (Data|Platform|Solution) Architect by specialization, a software engineer by profession, and an engineer at heart.
 
-Based in Paris and working internationally with [Boston Consulting Group - X](https://www.bcg.com/x), developing, for and with our clients, advanced analytics solutions at scale.
+After 7y working with the Boston Consulting Group as AI Principal Engineer, Imoved to freelancing.
+
+Based in Paris and working internationally with various organisations, from Airline to PE funds.
 
 ## 📫 Contact me
 
