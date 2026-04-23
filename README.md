@@ -4,9 +4,9 @@
 
 I am a (Data|Platform|Solution) Architect by specialization, a software engineer by profession, and an engineer at heart.
 
-After 7y working with the Boston Consulting Group as AI Principal Engineer, Imoved to freelancing.
+After 7y working with the Boston Consulting Group as an AI Principal Engineer, I moved to freelancing with Arkham Advisory
 
-Based in Paris and working internationally with various organisations, from Airline to PE funds.
+Based in Paris and working internationally with various organisations, from airlines to PE funds.
 
 ## 📫 Contact me
 
